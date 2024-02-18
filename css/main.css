@@ -295,7 +295,7 @@ div#slider-home .carousel-item::before {
 }
 @media(max-width: 600px) {
   .slide img {
-      height: 280px;
+      height: 190px;
   }
   .carousel-caption {
       position: absolute;
